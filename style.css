@@ -18,7 +18,7 @@ nav a {
   margin: auto;
 }
 
-#featured-property p{
+#featured-property p, figcaption{
   width: 800px;
   text-align: center;
   margin: auto;
