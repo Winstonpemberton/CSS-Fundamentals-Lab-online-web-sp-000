@@ -17,3 +17,8 @@ nav a {
   background-color: #ededeb;
   margin: auto;
 }
+
+#featured-property p{
+  width: 800px;
+  text-align: center;
+}
